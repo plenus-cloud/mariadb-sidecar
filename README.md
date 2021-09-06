@@ -1,0 +1,1 @@
+# mariadb-sidecar-dockerfile
